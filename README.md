@@ -1,4 +1,4 @@
-<h1 align="center">Whaticket Baileys cumunidade |Canal Vem Fazer</h1>
+<h1 align="center">Whaticket Baileys comunidade |Canal Vem Fazer</h1>
 
 <h1 align="center">https://www.youtube.com/@vemfazer</h1>
 

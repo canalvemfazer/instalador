@@ -38,9 +38,7 @@ Email válido para certificação SSL
 (Nos ajude a trazer novos conteúdos todos os dias!)
 
 
-
-
-div align="center">
+  <div align="center">
     <h3>Ajude com qualquer valor</h3>
   <a href="https://nubank.com.br/pagar/1j4x3i/qA4jW8n5WR" target="_blank" rel="noopener noreferrer">
     <img src="https://imgur.com/CQPHUBB.gif" style="width: 50% !important;">
